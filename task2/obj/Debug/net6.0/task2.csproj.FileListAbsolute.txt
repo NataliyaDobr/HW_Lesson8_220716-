@@ -1,0 +1,15 @@
+C:\GeekBrains\HW_Lesson8_20220716\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+C:\GeekBrains\HW_Lesson8_20220716\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\HW_Lesson8_20220716\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+C:\GeekBrains\HW_Lesson8_20220716\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+C:\GeekBrains\HW_Lesson8_20220716\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+C:\GeekBrains\HW_Lesson8_20220716\task2\bin\Debug\net6.0\task2.exe
+C:\GeekBrains\HW_Lesson8_20220716\task2\bin\Debug\net6.0\task2.deps.json
+C:\GeekBrains\HW_Lesson8_20220716\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+C:\GeekBrains\HW_Lesson8_20220716\task2\bin\Debug\net6.0\task2.dll
+C:\GeekBrains\HW_Lesson8_20220716\task2\bin\Debug\net6.0\task2.pdb
+C:\GeekBrains\HW_Lesson8_20220716\task2\obj\Debug\net6.0\task2.dll
+C:\GeekBrains\HW_Lesson8_20220716\task2\obj\Debug\net6.0\refint\task2.dll
+C:\GeekBrains\HW_Lesson8_20220716\task2\obj\Debug\net6.0\task2.pdb
+C:\GeekBrains\HW_Lesson8_20220716\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+C:\GeekBrains\HW_Lesson8_20220716\task2\obj\Debug\net6.0\ref\task2.dll
